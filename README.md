@@ -9,5 +9,6 @@ Un Bloc Increible para el[ curso de Git](https://platzi.com/home " curso de Git"
 * Trucos muy locos del profesor.
 * La personalidad multiple de Freddy... Es un Crack.
 * Creado por el increible Platzi Team
+* Incluye ejemplos en Windows, Linux y Mac
 
 Y como amable recordatorio este **readme.md es un chiste**, diseñado para el ejemplo. Si llegas hasta aca NO TE LO TOMES ENSERIO y mejor ve a ver el curso.
